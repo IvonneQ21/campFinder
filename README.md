@@ -14,4 +14,4 @@ To get Started
 2) cd into campFinder
 3) npm install
 3) See in the browser: open campFinder.html
-4) open on Atom - atom . 
+4) open on Atom - atom .
